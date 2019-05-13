@@ -1,0 +1,7 @@
+E:\Users\Gla_D\source\repos\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojAssemblyReference.cache
+E:\Users\Gla_D\source\repos\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache
+E:\Users\Gla_D\source\repos\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe.config
+E:\Users\Gla_D\source\repos\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe
+E:\Users\Gla_D\source\repos\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+E:\Users\Gla_D\source\repos\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
+E:\Users\Gla_D\source\repos\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
